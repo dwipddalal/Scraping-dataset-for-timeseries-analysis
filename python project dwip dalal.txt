@@ -1,0 +1,16 @@
+ES102-Project
+
+#This project is intended for helping daily traders. It will display current bitcoin price in USD, average bitcoin price, rise in bitcoin price, percentage
+change, average increment, average percentage change and max value of bitcoin over the period of time. It will guide traders, weather they should buy or sell
+bitcoin.
+
+# Libraries Used
+1) BeautifulSoup
+2) requests
+3) time
+
+#Self Introduction
+Name: DWIP DALAL
+Roll No: 20110063
+Github Id : dwipdalal
+REPOSITORY NAME: DWIPSREP
